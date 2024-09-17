@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="CSS/estilo.css">
+    <link rel="stylesheet" href="CSS/estilo-contato.css">
+    <title>Portifólio</title>
+</head>
+<body>
+    <header>
+        
+        <div class="topo-conteudo">
+           <a href="index.html"> <img class="logotipo-logo" src="../PORTIFÓLIO/IMAGENS/logo.png" alt="Logotipo Ótica" class="logo" ></a>
+            
+            <nav>
+                <ul class="menu">
+                    <li>
+                        <a href="index.html"> <img src="../imagens/silhueta-de-multiplos-usuarios.png" alt="" class="home" >INÍCIO</a>
+                    </li>
+
+                    <li>
+                        <a href="sobre.html"><img src="../imagens/silhueta-cheia-de-sacola-de-compras.png" alt="" class="home" >SOBRE</a>
+                    </li>
+
+                    <li>
+                        <a href="trabalhos.html"><img src="../imagens/do-utilizador.png" alt="" class="home" >TRABALHOS</a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+ </header>
+
+    <div class="Banner">
+        <div class="texto-banner">
+            <h2>Contato</h2>
+        </div>
+    </div>
+    <form class="formulario" method="post">
+
+        <h2>Fale conosco</h2>
+        <div class="field">
+            <label for="nome">Nome:</label>
+            <input type="text" id="nome" name="nome" placeholder="Digite seu nome" required>
+        </div>
+
+        <div class="field">
+            <label for="telefone">Telefone:</label>
+            <input type="tel" id="phone" name="phone" placeholder="(xx) xxxxx-xxxx" pattern="[0-9]{2}-[0-9]{5}-[0-9]{4}" required><br><br>
+        
+        </div>
+      
+        <div class="field">
+            <label for="usuario">E-mail</label>
+            <input type="email" id="usuario" autocomplete="on"placeholder="Digite seu e-mail"> 
+        </div>
+
+
+        <div class="field">
+            <label for="mensagem">Mensagem:</label>
+            <textarea name="mensagem" id="mensagem" placeholder="Deixe aqui sua mensagem" required></textarea>
+        </div>
+        <input type="submit" name="acao" value="Enviar">
+    </form>
+
+
+    <div class="banner-rodape">  
+    
+        <footer>
+            <div class="icon">
+                <a href="https://www.facebook.com/share/JLLy2wU78zyScL1i/?mibextid=LQQJ4d"> <img src="../PORTIFÓLIO/IMAGENS/facebook 1.png" alt="" class="redes"></a>
+                <a href="https://www.instagram.com/b.garrutti?igsh=N2wxbDZyeWQ1OXc4"><img src="../PORTIFÓLIO/IMAGENS/instagram 1.png" alt="" class="redes"></a>
+                <a href="https://www.tiktok.com/@bianca_garrutti4?_t=8pbXMM7R34g&_r=1"><img src="../PORTIFÓLIO/IMAGENS/tik-tok.png" alt="" class="redes"></a>
+                <a href="contato.html"><img src="../PORTIFÓLIO/IMAGENS/chamada-telefonica.png" alt="" class="redes"></a>
+                <a href="contato.html"><img src="../PORTIFÓLIO/IMAGENS/e-mail.png" alt="" class="redes"></a>
+            </div>
+            <div>
+                <p class="texto-rodape">COPYRIGHT (C) BIANCA GARRUTTI - TODOS OS DIREITOS RESERVADOS.</p>
+            </div>
+        </footer>
+     

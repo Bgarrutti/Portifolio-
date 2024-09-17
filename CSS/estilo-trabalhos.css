@@ -1,0 +1,281 @@
+.banner-sobre-nos{
+    height: 200px;
+    background-image: url(../IMAGENS/banner.png);
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: cover; 
+    padding-top: 130px;
+}
+
+
+.banner-historia{
+    padding: 35px 80px 0 80px;
+}
+
+
+.titulo-historia{
+    width: 1200px;
+    margin: auto;
+    padding-top: 10px;
+    font-family: Raleway;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 300px;
+    color: #ffffff;
+    text-align: center;
+}
+
+.titulo{
+    padding-top: 60px;
+    font-family: Raleway;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 300px;
+    color: #db50a4;
+    text-align: center;
+}
+.trab{
+padding: 10px 40px 50px 40px;
+}
+
+.trab1{
+   
+    width: 525px;
+    height: 300px;
+    box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.25);
+}
+ 
+.trabs2{
+    padding: 10px 40px 50px 2px;
+}
+ 
+.trab2{
+    width: 525px;
+    height: 300px;
+    box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.25);
+}
+ 
+.trabs3{
+    padding: 10px 40px 50px 2px;
+}
+ 
+.trab3{
+   
+    width: 300px;
+    height: 300px;
+    box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.25);
+}
+
+.trabs4{
+    padding: 5px 40px 50px 40px;
+}
+ 
+.trab4{
+   
+    width: 450px;
+    height: 300px;
+    box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.25);
+}
+ 
+.trabs5{
+    padding: 5px 40px 50px 2px;
+}
+ 
+.trab5{
+    width: 450px;
+    height: 300px;
+    box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.25);
+}
+ 
+.trabs6{
+    padding: 5px 40px 50px 2px;
+}
+ 
+.trab6{
+   
+    width: 450px;
+    height: 300px;
+    box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.25);
+}
+
+.trabs7{
+    padding: 5px 40px 50px 40px;
+}
+ 
+.trab7{
+   
+    width: 450px;
+    height: 300px;
+    box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.25);
+}
+ 
+.trabs8{
+    padding: 5px 40px 50px 2px;
+}
+ 
+.trab8{
+    width: 450px;
+    height: 300px;
+    box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.25);
+}
+ 
+.trabs9{
+    padding: 5px 40px 50px 2px;
+}
+ 
+.trab9{
+   
+    width: 450px;
+    height: 300px;
+    box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.25);
+}
+
+
+.trabs10{
+    padding: 10px 40px 50px 40px;
+}
+ 
+.trab10{
+   
+    width: 450px;
+    height: 300px;
+    box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.25);
+}
+ 
+.trabs11{
+    padding: 10px 40px 50px 2px;
+}
+ 
+.trab11{
+    width: 450px;
+    height: 300px;
+    box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.25);
+}
+ 
+.trabs12{
+    padding: 10px 40px 50px 2px;
+}
+ 
+.trab12{
+   
+    width: 450px;
+    height: 300px;
+    box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.25);
+}
+
+.trabs13{
+    padding: 10px 40px 50px 40px;
+}
+ 
+.trab13{
+   
+    width: 450px;
+    height: 300px;
+    box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.25);
+}
+ 
+.trabs14{
+    padding: 10px 40px 50px 2px;
+}
+ 
+.trab14{
+    width: 450px;
+    height: 300px;
+    box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.25);
+}
+ 
+.trabs15{
+    padding: 10px 40px 50px 2px;
+}
+ 
+.trab15{
+   
+    width: 450px;
+    height: 300px;
+    box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.25);
+}
+
+.trabs16{
+    padding: 10px 40px 50px 40px;
+}
+ 
+.trab16{
+   
+    width: 450px;
+    height: 400px;
+    box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.25);
+}
+ 
+.trabs17{
+    padding: 10px 40px 50px 2px;
+}
+ 
+.trab17{
+    width: 450px;
+    height: 400px;
+    box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.25);
+}
+ 
+.trabs18{
+    padding: 10px 40px 50px 2px;
+}
+ 
+.trab18{
+   
+    width: 450px;
+    height: 400px;
+    box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.25);
+}
+
+.trabs19{
+    padding: 10px 40px 50px 40px;
+}
+ 
+.trab19{
+   
+    width: 450px;
+    height: 400px;
+    box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.25);
+}
+ 
+.trabs20{
+    padding: 10px 40px 50px 2px;
+}
+ 
+.trab20{
+    width: 450px;
+    height: 400px;
+    box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.25);
+}
+ 
+.trabs21{
+    padding: 10px 40px 50px 2px;
+}
+ 
+.trab21{
+   
+    width: 450px;
+    height: 400px;
+    box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.25);
+}
+
+.trabs22{
+    padding: 10px 40px 50px 40px;
+}
+ 
+.trab22{
+    width: 450px;
+    height: 400px;
+    box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.25);
+}
+ 
+.trabs23{
+    padding: 10px 40px 50px 2px;
+}
+ 
+.trab23{
+   
+    width: 450px;
+    height: 400px;
+    box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.25);
+}
